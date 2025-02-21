@@ -42,3 +42,8 @@ The project utilizes publicly available datasets from **NYC Open Data**, specifi
    ```sh
    git clone https://github.com/your-username/BI_Criminal_Analysis_Project.git
    cd BI_Criminal_Analysis_Project
+
+## 🔗 Large Files
+Due to file size limitations, some files are stored externally:
+- 📂 **Full Dataset**: [Download here]([your-google-drive-link](https://drive.google.com/file/d/17elIXph-OqJvKNRYtozo9vMoLCoCAU4Y/view?usp=drive_link))
+- 📂 **Arrest Dataset**: [Download here](https://docs.google.com/spreadsheets/d/17tZ1Eu4hxLlW3gaNVT0Gsrr4NU0hMzEy/edit?usp=drive_link&ouid=100014359676356882502&rtpof=true&sd=true)
